@@ -6,8 +6,6 @@
 
 <!--  write something about me -->
 
-I am currently learning Full Stack Web Development Course at GUVI.
-
 <!--
 I'm
 Full Stack Solution Architect
